@@ -1,6 +1,6 @@
 ---
-author: Joel Samuel
-date: 6 april 2025
+author: Joel Samuel  
+date: 6 april 2025  
 ---
 # Building Universal Apps with React: One Codebase, Every Platform!
 
